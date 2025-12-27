@@ -42,7 +42,7 @@ Logistic Regression gave reliable results for binary classification.
 
 1. Clone the repo:
 
-git clone https://github.com/your-username/breast_cancer_prediction.git
+git clone https://github.com/ravencore06/breast_cancer_prediction.git
 
 2. Open the notebook in Google Colab or Jupyter Notebook.
 
